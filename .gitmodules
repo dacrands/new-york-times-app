@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:dacrands/new-york-times-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:dacrands/nyt-app-cors.git
